@@ -1,0 +1,27 @@
+h1 {
+    color : #00f;
+    font-style : italic;
+}
+.note {
+    color : #808080;
+    padding-top : 3px;
+    font-size : 15px ;
+}
+.error {
+    color: #ff0000;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+.success {
+    color: #4bb41a;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
